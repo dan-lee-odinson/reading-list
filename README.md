@@ -1,4 +1,4 @@
-# My Reading-List
+# My Reading List
 *Books I'm reading for my moonshot for a future in space, programming, and autonomous systems*
 
 ## Astrophysics for People in A Hurry
@@ -6,7 +6,7 @@ by Neil deGrasse Tyson
 
 *Finished on 4/30/2026*
 
-## Atomic Habits: An Easy and Proven Way to Guild Good Habits & Break Bad Ones
+## Atomic Habits: An Easy and Proven Way to Build Good Habits & Break Bad Ones
 by James Clear
 
 ## Failure is Not an Option
