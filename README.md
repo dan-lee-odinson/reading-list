@@ -72,3 +72,24 @@ by Terry Virts
 
 ## Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer
 by Rob Manning and William L. Simon
+
+## Unmasking AI: My Mission to Protect What is Human in a World of Machines
+by Joy Buolamwini
+
+## Superagency: What Could Possibly Go Right with Our AI Future
+by Reid Hoffman and Greg Beato
+
+## The Coming Wave: AI, Power, and Our Future
+by Mustafa Suleyman and Michael Bhaskar
+
+## Thinking, Fast and Slow
+by Daniel Kahneman
+
+## The Digital Mindset: What It Really Takes to Thrive in the Age of Adata, Algorithms, and AI
+by Paul Leonardi and Tsedai Neely
+
+## Orbital
+by Samantha Harvey
+
+## The Secret Life of the Universe: An Astrobiologist's Search for the Origins and Frontiers of Life
+by Nathalie A. Cabrol
