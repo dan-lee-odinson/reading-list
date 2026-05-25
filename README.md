@@ -16,15 +16,14 @@ by James Clear
 
 Finished listening to James Clear's Atomic Habits - it's a great practical guide for implementing your own personal goals and making them sustainable habits. I have found myself already applying a number of the strategies he writes about (start small, build over time, don't get discouraged if you don't do everything in your goal all the time, even making the attempt is progress, etc), and it provided good next steps for continuing my path to success. His insights on negative habits are also very good, showing how to identify the triggers for those habits and how to avoid relapsing into the old patterns when you have worked to break them. 
 
+## Cosmos
+by Carl Sagan
 
 ## Failure is Not an Option
 by Gene Kranz
 
 ## Project Hail Mary
 by Andy Weir
-
-## Cosmos
-by Carl Sagan
 
 ## Humanish: What Talking to Your Cat or Naming Your Car Reveals About the Uniquely Human Need to Humanize
 by Justin Gregg
@@ -49,4 +48,27 @@ by Stephen Hawking
 
 ## Ignition!: An Informal History of Liquid Rocket Propellants
 by John Drury Clark
-by 
+
+## If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All
+by Eliezer Yudkowsky & Nate Soares
+
+## Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life
+by Ozan Varol
+
+## Back to Earth: What Life in Space Taught Me About Our Home and Our Mission to Protect It
+by Astronaut Nicole Stott
+
+## The Disordered Cosmos: A Journey Into Dark Matter, Spacetime, & *Dreams Deferred*
+by Chanda Prescod-Weinstein
+
+## Horizons: The Global Origins of Modern Science
+by James Poskett
+
+## A Portrait of the Scientist as a Young Woman: A Memoir - A Luminous Journey from Trauma and Cancer to NASA's Psyche Asteroid Mission
+by Lindy Elkins-Tanton
+
+## How to Astronaut: An Insider's Guide to Leaving Planet Earth
+by Terry Virts
+
+## Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer
+by Rob Manning and William L. Simon
