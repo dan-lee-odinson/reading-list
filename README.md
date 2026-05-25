@@ -6,10 +6,16 @@ by Neil deGrasse Tyson
 
 *Finished on 4/30/2026*
 
+I read Neil DeGrasse Tyson's "Astrophysics for People in a Hurry" - It's a fantastic book, exploring the vastness of the universe we are barely beginning to discover and understand. His engaging style communicates complex subject matter in an understandable and entertaining way, making this a must-read for everyone, not just STEM heads (like myself).
+
+
 ## Atomic Habits: An Easy and Proven Way to Build Good Habits & Break Bad Ones
 by James Clear
 
 *Finished on 5/6/2026*
+
+Finished listening to James Clear's Atomic Habits - it's a great practical guide for implementing your own personal goals and making them sustainable habits. I have found myself already applying a number of the strategies he writes about (start small, build over time, don't get discouraged if you don't do everything in your goal all the time, even making the attempt is progress, etc), and it provided good next steps for continuing my path to success. His insights on negative habits are also very good, showing how to identify the triggers for those habits and how to avoid relapsing into the old patterns when you have worked to break them. 
+
 
 ## Failure is Not an Option
 by Gene Kranz
