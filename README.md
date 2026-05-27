@@ -40,6 +40,10 @@ I read Neil DeGrasse Tyson's "Astrophysics for People in a Hurry" - It's a fanta
 
 * ## Cosmos 
   by Carl Sagan
+  *Finished on 5/27/2026*
+  
+Carl Sagan's Cosmos is a masterpiece - even though it was published 46 years ago, it remains as relevant today as when it was written. He had the heart of a poet joined with mind of a scientist - it's a love letter to the universe and the sense of wonder his descriptions of the cosmos and the triumphs and tragedies of humankind to understand it remains a source of inspiration to new generations of scientists and explorers today. Listening to it read by Lavar Burton was a real treat - I often listen to audio books at 1.5 speed - but Burton's voice is iconic to a kid who grew up with Reading Rainbow and Star Trek, so I took my time to enjoy every aspect of this audiobook. 
+
 
 * ## The Disordered Cosmos: A Journey Into Dark Matter, Spacetime, & Dreams Deferred 
   by Chanda Prescod-Weinstein
