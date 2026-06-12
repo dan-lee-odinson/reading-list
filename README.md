@@ -12,6 +12,7 @@
 * ## Failure is Not an Option 
   by Gene Kranz
   *Finished on 6/12/2026*
+
 I just finished the legendary NASA Chief Flight Director Gene Kranz's autobiography, "Failure is Not an Option". It's not only a fascinating look behind the scenes at the pivotal moments in the early years of the space program, from Gemini through the final Apollo mission - but it's also the story of how a leader is shaped and tested. He writes openly of coming into the program as a former fighter pilot and trying to find his place, learning to understand and trust his team, the struggles in having to make hard calls, and how to keep your team moving forward even when faced with impossible odds and staggering losses. Whether your personal trajectory is space or much more local - the lessons he shares are highly applicable, and I absolutely recommend reading this book.
 
 * ## How to Astronaut: An Insider's Guide to Leaving Planet Earth 
