@@ -64,6 +64,13 @@ ____
 
 * ## Co-Intelligence: Living and Working with AI 
   by Ethan Mollick
+  *Finished on 6/18/2026*
+
+In my recent work with AI models, I found Ethan Mollick's book "Co-Intelligence: Living and Working with AI" particularly relevant. Published in 2024, it highlights several key points that remain crucial today:
+- Learning to use and incorporate AI tools is now a non-negotiable skill for staying competitive in the workforce.
+- AI has already replaced some jobs and will continue to reshape the labor market. As with any major technological advancement, some roles will become obsolete while new ones emerge. There is a pressing need to help workers retrain and develop the skills necessary to adapt. Those who remain agile, curious, and willing to learn are most likely to succeed.
+- The Centaur/Cyborg analogy is especially insightful. I have found that fully integrating AI into my workflow, rather than keeping it separate from my own thinking and processes, allows me to leverage these tools more effectively and significantly increase my productivity.
+- The “human in the loop” principle is, for me, the most important takeaway. Keeping humans involved as decision-makers, verifiers, and creative directors is essential if we want AI to enhance human potential rather than diminish it. Removing humans from the loop leads to the kind of “AI slop” we often see, which damages the broader public narrative around AI. By centering humans as the architects and creators, we can better harness AI for the benefit of Magnifica Humanitas, as articulated by Pope Leo XIV.
 
 * ## The Coming Wave: AI, Power, and Our Future 
   by Mustafa Suleyman and Michael Bhaskar
