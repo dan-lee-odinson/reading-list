@@ -107,6 +107,11 @@ Finished listening to James Clear's Atomic Habits - it's a great practical guide
 
 * ## Talent is Overrated: What Really Separates World-Class Performers from Everyone Else 
   by Geoff Colvin
+*Finished on 06/27/2026*
+
+Geoff Colvin's Talent Is Overrated is one of those books that rearranges a belief you didn't know you were carrying. His argument is simple and a little provocative: great achievers are made, not born. The popular story says talent is something you're handed at birth (you've either got it or you don't), but Colvin points to study after study showing that the people at the top got there through deliberate practice. Deliberate practice is conscious and planned, and it's uncomfortable on purpose, which is different from just grinding away at the same task on repeat. It means working the hard parts, the things you're bad at, over and over, with feedback. The other piece that stuck with me is motivation. The people who become great found the thing they're passionate about (which is why they keep showing up), and they run on intrinsic rewards rather than the external kind. The internal fuel lasts longer.
+
+This one hit close to home. For years I told myself a future in STEM was closed to me because I wasn't "naturally" good at math and science, and I treated that as a verdict instead of a starting point. Colvin's whole thesis says that's backwards. I might not end up a rocket scientist, and that's fine. But I do plan to find my place in the field I'm passionate about (the space industry has had my heart since I was a kid), and I'm building toward it the only way the research says works: deliberate practice, every single day, cultivating the skills the work demands. I found the book useful. Ask me again in a few years and I hope I'm one of the success stories that proves Colvin right.
 
 * ## Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life 
   by Ozan Varol
