@@ -41,6 +41,14 @@ I read Neil DeGrasse Tyson's "Astrophysics for People in a Hurry" - It's a fanta
 * ## A Brief History of Time: From the Big Bang to Black Holes 
   by Stephen Hawking
 
+I finally read Stephen Hawking’s A Brief History of Time.
+It is one of those books I bought partly because it is universally recognized as a “serious thinking person” book, and I am a little ashamed to admit it languished on my bookshelf for far too long.
+What surprised me most is how accessible it actually is. Hawking explains deeply complex ideas in astrophysics and cosmology with clarity, patience, and a wonderfully dry sense of humor. I listened to the audiobook, and the narrator’s occasional unprompted chuckles made Hawking’s wry humor even more enjoyable.
+I would recommend it as a companion to Carl Sagan’s Cosmos. Where Sagan gives the reader a broad, poetic journey through the universe and humanity’s place within it, Hawking focuses more tightly on origins, black holes, time, and the stranger edges of cosmology. He also peppers in anecdotes from his academic career and from the brilliant minds who have wrestled with the universe’s deepest questions.
+One final note: I hesitate to spoil the surprise, but seeing the narrator’s name before starting the audiobook made me intensely curious what it would be like listening to the King of Pop explain quarks and the Big Bang. I was unaware there was also a British broadcaster named Michael Jackson.
+Slight disappointment aside, British Michael Jackson did a fantastic job.
+A brilliant, accessible, and surprisingly funny read.
+
 * ## Cosmos 
   by Carl Sagan
   *Finished on 5/27/2026*
