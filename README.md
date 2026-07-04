@@ -40,6 +40,7 @@ I read Neil DeGrasse Tyson's "Astrophysics for People in a Hurry" - It's a fanta
 
 * ## A Brief History of Time: From the Big Bang to Black Holes 
   by Stephen Hawking
+  *Finished on 7/4/2026*
 
 I finally read Stephen Hawking’s A Brief History of Time.
 It is one of those books I bought partly because it is universally recognized as a “serious thinking person” book, and I am a little ashamed to admit it languished on my bookshelf for far too long.
