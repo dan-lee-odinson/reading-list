@@ -5,6 +5,14 @@
 *Books covering the history, engineering, and firsthand experiences of leaving Earth.*
 * ## An Astronaut's Guide to Life on Earth
   by Col. Chris Hadfield
+  *Finished on 7/14/2026*
+  
+Some people discover their purpose early and set their course; others spend years searching. Chris Hadfield belongs firmly in the first camp.
+In An Astronaut’s Guide to Life on Earth, Hadfield recounts how watching the Apollo 11 moon landing at age nine inspired him to become an astronaut. Growing up on a farm in rural Ontario, he committed to that goal 15 years before the first Canadian ever went to space.
+What follows is an inspiring story of relentless preparation, resilience, and focus. Despite setbacks and daunting odds, Hadfield’s tenacity earned the respect of colleagues and leaders in the Canadian Air Force and NASA. He eventually became the first Canadian to command a spacecraft and the second non-American to lead a crew aboard the International Space Station.
+Two lessons particularly resonated with me. The first is the importance of “sweating the small stuff”—paying close attention to details and treating every mistake as an opportunity to improve.
+The second is Hadfield’s advice to “strive to be a zero.” Rather than trying to be the superstar, keep your ego in check, earn trust, do no harm, and become a quiet, competent contributor to the team.
+This is an engaging and practical book about purpose, preparation, humility, and performing under pressure—on Earth or in orbit.
 
 * ## Back to Earth: What Life in Space Taught Me About Our Home and Our Mission to Protect It 
   by Astronaut Nicole Stott
