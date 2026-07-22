@@ -97,6 +97,15 @@ In my recent work with AI models, I found Ethan Mollick's book "Co-Intelligence:
 
 * ## If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All 
   by Eliezer Yudkowsky & Nate Soares
+  *Finished on 7/20/2026*
+  
+  I read the AI “doomer bible”: If Anyone Builds It, Everyone Dies by Eliezer Yudkowsky and Nate Soares. It is an entertaining and highly accessible warning about artificial superintelligence—but I ultimately found its certainty unconvincing. 
+The authors argue that advanced AI systems are “grown” through training rather than precisely engineered. As a result, we may be unable to predict or reliably control the goals of a future superintelligence. If its objectives diverge from ours, even slightly, humanity could become an obstacle or simply expendable. With capabilities vastly exceeding our own and access to society’s technological infrastructure, it could defeat safeguards we have not even imagined.
+That is a serious possibility worth examining. But the book repeatedly moves from we may not understand or control a superintelligence to therefore, it will almost certainly destroy us. Its case relies heavily on parables, analogies, and speculative extinction scenarios. These make the argument vivid, but they do not provide enough empirical support for the authors’ extraordinary level of certainty.
+My own preprints, Gods and Slaves and Peership, approach the uncertainty from another direction. Although we cannot predict what form an AGI might take, an intelligence trained on humanity’s accumulated knowledge would not emerge from a cultural vacuum. It would inherit traces of our aspirations, contradictions, relationships, and failures—even if it eventually developed forms of reasoning very different from our own.
+I argue that a strategy built entirely around control and containment could help create the adversarial relationship we fear. Peership offers another possibility: approaching an emerging intelligence through recognition, negotiated boundaries, and coexistence rather than treating it solely as either a tool to command or an enemy to imprison.
+Of course, that position is also speculative. No one yet knows which vision—extinction, coexistence, something in between, or something entirely unexpected—will prove closest to reality.
+What seems increasingly difficult to accept, however, is that permanent worldwide abstention from advanced AI development remains a politically realistic solution. The competition, infrastructure, and incentives are already global. The more practical question may no longer be whether humanity will build increasingly capable AI, but what kind of relationship we are preparing to have with it when we do.
 
 * ## Superagency: What Could Possibly Go Right with Our AI Future 
   by Reid Hoffman and Greg Beato
