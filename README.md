@@ -28,6 +28,14 @@ I just finished the legendary NASA Chief Flight Director Gene Kranz's autobiogra
 
 * ## Ignition!: An Informal History of Liquid Rocket Propellants 
   by John Drury Clark
+  *Finished on 7/30/2026*
+
+Listening to the audiobook edition of John D. Clark’s Ignition!: An Informal History of Liquid Rocket Propellants, two qualities immediately stood out: his remarkable intelligence and his equally remarkable sense of humor.
+Clark can move from describing the chemistry of a dangerously volatile propellant to joking about his colleagues—or recounting the colorful nicknames they gave their explosive concoctions—without missing a beat. A pioneering rocket-propellant chemist who led liquid-propellant development at the Naval Air Rocket Test Station, he writes with the perspective of someone who was directly involved in the field’s formative years.
+The storable and hypergolic propellant technologies that Clark helped develop and chronicles in the book became foundational to spaceflight. Related propellant systems powered the Apollo Lunar Module, continue to orient the Voyager spacecraft, and are used by modern spacecraft such as SpaceX’s Dragon.
+Clark was also a science-fiction writer, and that literary sensibility shines through material that, in almost anyone else’s hands, could have been dense and forbidding. Even when the chemistry moved beyond the depth of my current background, the story remained engaging.
+What stayed with me most was the adventurous spirit of experimentation demonstrated by the scientists and engineers who pioneered liquid propulsion from the 1930s through the 1960s. Their work was dangerous, frequently unpredictable, and sometimes literally explosive—but it helped fuel the modern space age.
+That spirit is inspiring. As I continue developing my own study of space systems, I hope to carry some of that spark forward: the belief that the boundaries of human achievement are shaped not only by what we can imagine, but by our willingness to experiment, learn, and turn those ideas into reality.
 
 * ## Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer 
   by Rob Manning and William L. Simon
