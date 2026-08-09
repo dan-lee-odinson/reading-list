@@ -149,6 +149,35 @@ This one hit close to home. For years I told myself a future in STEM was closed 
 
 * ## Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life 
   by Ozan Varol
+*Finished on 08/09/2026*
+
+Ozan Varol is an inspiring and insightful writer with a fascinating career. 
+At 17, he immigrated from Turkey to the United States to attend Cornell University, where he studied planetary science and worked on the operations team for NASA 2003 Mars Exploration Rovers, Spirit and Opportunity. He later earned his JD from the University of Iowa College of Law and became a tenured law professor at Lewis & Clark before leaving academia to focus on writing and speaking.
+His 2020 bestseller, *Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life*, translates lessons from rocket science into approaches to problem-solving, uncertainty, experimentation, and failure.
+That makes the book particularly relevant to me as I work toward entering the space industry. Part of that transition is learning the technical material—but another part is developing the ways of thinking that allow people to solve difficult problems when the answer isn't obvious.
+Each chapter reads like a short masterclass in that mindset. Varol also provides a free workbook on his website.
+Three chapters stood out to me:
+
+**Reasoning from First Principles**
+Don't do something simply because that's how it has always been done—or even because it worked before.
+Strip the problem down to its fundamentals. Separate genuine constraints from assumptions inherited from previous solutions, then build upward.
+Question what you think you know, what others have done, and which limitations are actually real.
+
+**Test as You Fly, Fly as You Test**
+Testing should reflect the environment in which something will actually operate.
+Don't design tests merely to prove something works. Push toward the breaking point. Look for the conditions under which it stops working.
+Recognize that observation itself can influence outcomes, design tests accordingly, and don't rely on a single successful result. Repeat, reproduce, and challenge it.
+
+**Nothing Fails Like Success**
+A near-miss isn't necessarily a success. It's an opportunity to discover a failure mode before it becomes catastrophic.
+One technique Varol discusses is the **pre-mortem**: assume your project has already failed, then work backward.
+What caused it?
+List what could prevent success, estimate the likelihood, and identify actions you can take now to reduce those risks.
+
+I can see applications for these ideas in almost any field, but they resonate strongly with me as I work toward a career in space.
+I don't simply want to learn about the space industry. I want to train myself to approach problems with the intellectual rigor, curiosity, skepticism, experimentation, and willingness to challenge assumptions that the work demands.
+The goal may be a moonshot.
+Learning to think like a rocket scientist is part of figuring out how to get there.
 
 * ## Thinking, Fast and Slow 
   by Daniel Kahneman
