@@ -3,6 +3,7 @@
 
 # 1. Space Exploration & Rocket Science
 *Books covering the history, engineering, and firsthand experiences of leaving Earth.*
+
 * ## An Astronaut's Guide to Life on Earth
   by Col. Chris Hadfield
   *Finished on 7/14/2026*
@@ -43,6 +44,24 @@ That spirit is inspiring. As I continue developing my own study of space systems
 * ## A Portrait of the Scientist as a Young Woman: A Memoir - A Luminous Journey from Trauma and Cancer to NASA's Psyche Asteroid Mission
   by Lindy Elkins-Tanton
 
+* ## Rocket Design and Construction Fundamentals
+  by Richard Skiba
+
+* ## Moon Shot: The Inside Story of America's Race to the Moon
+  by Alan Shepard and Deke Slayton
+
+* ## Apollo 13
+  by Jim Lovell
+
+* ## Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster
+  by Allan J. McDonald and James R. Hansen
+
+* ## Carrying the Fire: An Astronaut's Journeys
+  by Michael Collins
+
+* ## Escaping Gravity: My Quest to Transform NASA and Launch a New Space Age
+  by Lori Garver
+
 ___
 
 # 2. Astrophysics, Cosmology & Astrobiology
@@ -82,6 +101,14 @@ Carl Sagan's Cosmos is a masterpiece - even though it was published 46 years ago
 * ## Horizons: The Global Origins of Modern Science 
   by James Poskett
 
+* ## The World According to Physics
+  by Jim Al-Khalili
+
+* ## Under Alien Skies: A Sightseer's Guide to the Universe
+  by Phil Plait
+
+* ## Take Me to Your Leader: Practical Advice on Your First Alien Encounter
+  by Neil deGrasse Tyson
 ____
 
 # 3. Artificial Intelligence & The Digital Future
@@ -118,9 +145,14 @@ What seems increasingly difficult to accept, however, is that permanent worldwid
 * ## Superagency: What Could Possibly Go Right with Our AI Future 
   by Reid Hoffman and Greg Beato
 
+* ## The Singularity is Nearer: When we Merge with AI
+  by Ray Kurzweil  
+
 * ## Unmasking AI: My Mission to Protect What is Human in a World of Machines 
   by Joy Buolamwini
 
+* ## The Path to Singularity: How Technology Will Challenge the Future of Humanity
+  by J. Craig Wheeler
 ____
 
 # 4. Mindset, Performance & Strategy
@@ -131,7 +163,6 @@ ____
   *Finished on 5/6/2026*
 
 Finished listening to James Clear's Atomic Habits - it's a great practical guide for implementing your own personal goals and making them sustainable habits. I have found myself already applying a number of the strategies he writes about (start small, build over time, don't get discouraged if you don't do everything in your goal all the time, even making the attempt is progress, etc), and it provided good next steps for continuing my path to success. His insights on negative habits are also very good, showing how to identify the triggers for those habits and how to avoid relapsing into the old patterns when you have worked to break them. 
-
 
 * ## Creativity, Inc. (Expanded Edition) 
   by Ed Catmull
@@ -182,6 +213,8 @@ Learning to think like a rocket scientist is part of figuring out how to get the
 * ## Thinking, Fast and Slow 
   by Daniel Kahneman
 
+* ## Thinking in Systems: A Primer
+  by Donella H. Meadows
 ___
 
 # 5. Sci-Fi & Space Fiction
