@@ -64,6 +64,9 @@ That spirit is inspiring. As I continue developing my own study of space systems
 
 * ## Space to Grow: Unlocking the Final Economic Frontier
   by Matthew Weinzierl and Brendan Rosseau
+
+* ## Spaceman: An Astronaut's Unlikely Journey to Unlock the Secrets of the Universe
+  by Mike Massimino
 ___
 
 # 2. Astrophysics, Cosmology & Astrobiology
