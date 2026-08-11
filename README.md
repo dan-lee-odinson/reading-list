@@ -62,6 +62,8 @@ That spirit is inspiring. As I continue developing my own study of space systems
 * ## Escaping Gravity: My Quest to Transform NASA and Launch a New Space Age
   by Lori Garver
 
+* ## Space to Grow: Unlocking the Final Economic Frontier
+  by Matthew Weinzierl and Brendan Rosseau
 ___
 
 # 2. Astrophysics, Cosmology & Astrobiology
