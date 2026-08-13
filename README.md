@@ -64,6 +64,21 @@ That spirit is inspiring. As I continue developing my own study of space systems
 
 * ## Space to Grow: Unlocking the Final Economic Frontier
   by Matthew Weinzierl and Brendan Rosseau
+  *Finished on 8/13/2026*
+
+Space to Grow: Unlocking the Final Economic Frontier by Matthew Weinzierl and Brendan Rosseau filled a surprisingly large gap in my understanding of the space industry.
+I had spent a lot of time learning about the original Space Race, Apollo, and the Shuttle era, then largely jumped forward to today’s Artemis program and the emerging space economy. What I had not studied nearly enough was the transformation that happened in between: the rise of commercial space over the past two decades.
+One of the most interesting parts of the book was seeing how long both Elon Musk and Jeff Bezos have been passionate about space exploration — and how that passion produced two very different companies.
+SpaceX embraced rapid iteration: build, launch, learn, fail when necessary, redesign, and fly again. That willingness to accept technical failure as part of development has allowed the company to move at a pace that would be extraordinarily difficult within NASA’s traditional funding, procurement, and prime-contractor structure.
+Blue Origin has pursued a much more methodical path, driven by Bezos’s long-term vision of building the infrastructure necessary for millions of people to eventually live and work in space.
+NASA occupies yet another role. It is a massive public institution that has accomplished things no private company could have undertaken when it was created, conducting exploration and science for the public good rather than for a commercial return. But the structures that provide NASA with accountability and continuity can also make rapid experimentation difficult.
+What Space to Grow makes especially clear, however, is that the commercial space economy is much bigger than NASA, SpaceX, or Blue Origin.
+The success of launch companies and the growing availability of space infrastructure are opening opportunities for an entire ecosystem of startups working in satellites, communications, Earth observation, manufacturing, computing, logistics, robotics, data services, and technologies we are only beginning to develop.
+That may ultimately be the most important part of the story.
+We are not simply watching a few billionaires build rockets. We are watching the beginnings of an economic ecosystem in which access to space becomes a platform upon which thousands of other companies, technologies, and careers can be built.
+For someone actively working toward a career in this industry, that was the most exciting takeaway.
+The commercial space age is still remarkably young.
+I’m eager to see what gets built next — and even more eager to help build some of it. 
 
 * ## Spaceman: An Astronaut's Unlikely Journey to Unlock the Secrets of the Universe
   by Mike Massimino
