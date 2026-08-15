@@ -164,6 +164,27 @@ What seems increasingly difficult to accept, however, is that permanent worldwid
 
 * ## Superagency: What Could Possibly Go Right with Our AI Future 
   by Reid Hoffman and Greg Beato
+*Finished on 8/15/2026*
+
+It is remarkable how much AI has changed in just the past year.
+Superagency: What Could Possibly Go Right with Our AI Future, by Reid Hoffman and Greg Beato, was published in January 2025. When it was written, frontier AI models were only beginning to demonstrate agentic capabilities. Today, increasingly capable AI agents are becoming part of everyday workflows.
+Reading the book now makes some of its predictions feel surprisingly prescient.
+Hoffman and Beato anticipated not only the rapid expansion of agentic AI, but also the growing geopolitical struggle over access to advanced models, something that became very real this June when U.S. export controls affected access to Anthropic's Mythos and Fable models.
+But Superagency isn't primarily a book about predicting individual technologies.
+It's about how society responds when a transformative technology arrives.
+One comparison that stood out to me was the automobile. We now treat cars as an ordinary part of civilization, but their introduction generated enormous public backlash. Some early motorists were viewed as dangerous intruders, and resistance occasionally became violent.
+The authors see similarities in today's reaction to AI.
+Their argument isn't that AI carries no risks. They acknowledge training bias, hallucinations, toxic outputs, misuse, and other legitimate problems. But they also point to something we can already observe: successive generations of AI systems have continued to improve, while many of their earlier weaknesses have been reduced.
+Their larger message is one of optimism through human agency.
+AI can expand access to expertise, education, healthcare information, creativity, and other resources historically limited by geography, wealth, or institutional capacity. Used well, it can give more people capabilities that were previously available only to specialists or large organizations.
+That's the idea behind superagency: technology increases what individuals and communities can do.
+But perhaps the most important part of the book is that technological capability alone isn't enough.
+AI also has to earn public trust.
+That requires transparency, listening to people's concerns rather than dismissing them, giving people meaningful opportunities to participate in decisions about how these systems affect their lives, and building institutions that allow the public to shape the technology rather than simply experience it.
+AI itself may even become part of that process — creating new tools for civic participation, communication, and engagement at scales that weren't previously practical.
+I came away from Superagency appreciating its optimism.
+Plenty of conversations focus on what could go wrong with AI, and many of them are necessary.
+But we also need serious conversations about what could go right, and what choices we need to make to get there.  
 
 * ## The Singularity is Nearer: When we Merge with AI
   by Ray Kurzweil  
