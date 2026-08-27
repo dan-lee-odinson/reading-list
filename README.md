@@ -82,6 +82,15 @@ I’m eager to see what gets built next — and even more eager to help build so
 
 * ## Spaceman: An Astronaut's Unlikely Journey to Unlock the Secrets of the Universe
   by Mike Massimino
+
+* ## Red Moon Rising: Sputnik and the Hidden Rivals that Ignited the Space Age
+  by Matthew Brezezinski
+
+* ## Chasing New Horizons: Inside the Epic First Mission to Pluto
+  by Alan Stern and David Grinspoon
+
+* ## The Voyager Program: The History and Legacy of NASA's First Probes that Traveled to the Outer Solar System
+  Charles River Editors
 ___
 
 # 2. Astrophysics, Cosmology & Astrobiology
@@ -145,6 +154,10 @@ The cosmos belongs to all of us. Our institutions of science should reflect that
 
 * ## Take Me to Your Leader: Practical Advice on Your First Alien Encounter
   by Neil deGrasse Tyson
+
+* ## The Biggest Ideas in the Universe: Space, Time, and Motion
+  by Sean Carroll
+
 ____
 
 # 3. Artificial Intelligence & The Digital Future
@@ -295,3 +308,5 @@ I had this series on my "Want to read" list before the first Dune remake came ou
 * ## Foundation (7 book Saga) 
   by Isaac Asimov
 
+* ## Neuromancer
+  by William Gibson
