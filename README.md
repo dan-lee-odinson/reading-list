@@ -114,6 +114,22 @@ Carl Sagan's Cosmos is a masterpiece - even though it was published 46 years ago
 
 * ## The Disordered Cosmos: A Journey Into Dark Matter, Spacetime, & Dreams Deferred 
   by Chanda Prescod-Weinstein
+  *Finished on 8/23/2026*
+
+"The Disordered Cosmos: A Journey into Dark Matter, Spacetime, and Dreams Deferred" by Chanda Prescod-Weinstein is a book that, in my view, belongs alongside Carl Sagan’s Cosmos and Stephen Hawking’s A Brief History of Time in our STEM education.
+But it asks us to look at science from a very different perspective.
+Prescod-Weinstein writes as a Black, queer, agender physicist who deeply loves physics and the cosmos while refusing to separate that love from the human institutions through which science is practiced.
+She tells some of the stories that traditional histories of science leave out — scientists whose contributions were ignored, minimized, or absorbed into a scientific tradition overwhelmingly centered on white European men.
+She also confronts something far more uncomfortable: the relationship between scientific progress and power.
+Science does not exist outside history. Its institutions and discoveries have been intertwined with colonization, slavery, profit, militarism, and war. Prescod-Weinstein examines that history, from the appropriation of Indigenous lands and knowledge to the development of nuclear weapons and the continuing conflict over astronomy on Maunakea, a sacred site to Native Hawaiians.
+At the same time, this is intensely personal.
+Prescod-Weinstein writes about her own love of the universe and her experiences with racism, sexism, and exclusion within scientific and academic communities. That tension runs throughout the book: how do you continue to love science while recognizing the harm that has been committed in its name and within its institutions?
+That makes The Disordered Cosmos a powerful and, at times, uncomfortable read.
+But discomfort has value.
+If we want science to live up to its highest ideals — curiosity, evidence, discovery, and the expansion of human knowledge — then we also have to be willing to examine the institutions and assumptions surrounding it.
+We cannot change what we refuse to look at.
+And change we must.
+The cosmos belongs to all of us. Our institutions of science should reflect that. 
 
 * ## The Secret Life of the Universe: An Astrobiologist's Search for the Origins and Frontiers of Life 
   by Nathalie A. Cabrol
