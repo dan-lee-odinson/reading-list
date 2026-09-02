@@ -40,7 +40,7 @@ That spirit is inspiring. As I continue developing my own study of space systems
 
 * ## Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer 
   by Rob Manning and William L. Simon
-  *Finished on 8/25/2026*
+  *Finished on 8/29/2026*
 
 Mars Rover Curiosity: An Inside Account from Curiosity’s Chief Engineer by Rob Manning and William L Simon offers a rare behind-the-scenes look at the engineering, decision-making, failures, and successes that eventually led to one of NASA’s most ambitious Mars missions.
 Manning begins with the painful lessons surrounding the failures of the Mars Surveyor ’98 missions. Mars Climate Orbiter was lost because one team supplied spacecraft-navigation data using English units while another system expected metric units. The error itself was surprisingly simple; what struck me more was that the surrounding systems-engineering and verification processes failed to catch it.
