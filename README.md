@@ -40,6 +40,17 @@ That spirit is inspiring. As I continue developing my own study of space systems
 
 * ## Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer 
   by Rob Manning and William L. Simon
+  *Finished on 8/25/2026*
+
+Mars Rover Curiosity: An Inside Account from Curiosity’s Chief Engineer by Rob Manning and William L Simon offers a rare behind-the-scenes look at the engineering, decision-making, failures, and successes that eventually led to one of NASA’s most ambitious Mars missions.
+Manning begins with the painful lessons surrounding the failures of the Mars Surveyor ’98 missions. Mars Climate Orbiter was lost because one team supplied spacecraft-navigation data using English units while another system expected metric units. The error itself was surprisingly simple; what struck me more was that the surrounding systems-engineering and verification processes failed to catch it.
+Mars Polar Lander was lost only months later. Investigators ultimately concluded that the most probable cause was a false touchdown indication generated during landing-leg deployment, which may have caused its descent engines to shut down while the spacecraft was still above the Martian surface.
+Reading about those failures reinforced something that matters enormously to me as I work toward a career in mission operations: even extraordinarily talented teams are not immune to basic mistakes. Mission success depends not only on brilliant engineering, but also on rigorous verification, clear interfaces, communication, risk management, and attention to seemingly minute details.
+NASA took those lessons seriously. The Mars program was restructured, the planned 2001 lander was cancelled, and the mission that became 2001 Mars Odyssey proceeded with a much greater emphasis on reducing mission risk.
+From there, Manning takes the reader through the development of Spirit and Opportunity and the tense moments surrounding their arrivals at Mars—the long wait for telemetry confirming that each rover had survived entry, descent, and landing. Both missions succeeded spectacularly, but Opportunity became particularly remarkable: designed for just 90 Martian days, it operated for 5,352 sols—nearly 60 times its planned mission duration.
+Those successes helped pave the way for the Mars Science Laboratory and Curiosity. Manning describes the engineering challenges, budget pressures, schedule problems, and eventual two-year launch delay that accompanied development of a spacecraft far more complex than its predecessors.
+Curiosity launched in 2011, landed in Gale Crater in 2012, and more than fourteen years later is still actively exploring Mars and returning science.
+For someone like me working toward mission operations and ground systems, this was more than a history of a Mars rover. It was a case study in systems engineering, risk management, anomaly response, organizational learning, and the enormous amount of work required on the ground to make exploration possible hundreds of millions of kilometers away.
 
 * ## A Portrait of the Scientist as a Young Woman: A Memoir - A Luminous Journey from Trauma and Cancer to NASA's Psyche Asteroid Mission
   by Lindy Elkins-Tanton
