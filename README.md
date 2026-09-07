@@ -93,6 +93,20 @@ I’m eager to see what gets built next — and even more eager to help build so
 
 * ## Spaceman: An Astronaut's Unlikely Journey to Unlock the Secrets of the Universe
   by Mike Massimino
+  *Finished on 9/7/2026*
+
+I recently finished Spaceman, and found it to be a warm, compelling account of what it actually takes to turn a childhood dream of spaceflight into reality.
+Massimino tells the story in his unmistakable Long Island voice—funny, self-deprecating, earnest, and remarkably down to earth for someone who has quite literally worked hundreds of miles above it.
+He writes about dreaming of becoming an astronaut as a boy, but also about just how unlikely that dream sometimes seemed. His journey was shaped by his family, including the unshakable faith his first-generation Italian-American firefighter father had in him; by inspiration and mentorship from people he met along the way; and, famously, by his struggle to overcome something as seemingly mundane yet insurmountable as the shape of his own eyeballs to meet NASA’s vision requirements.
+What stood out to me most, though, was how much of the book is ultimately about people.
+Massimino recounts the exhilaration and pressure of spaceflight and his historic EVA work servicing the Hubble Space Telescope, but also the Columbia disaster, the loss of friends and members of the astronaut family, and the uncertainty surrounding the Shuttle program’s eventual return to flight.
+Then there are moments of pure joy: the lifelong Mets fan being asked to throw out the first pitch at a Mets-Yankees game—and being stunned when a Major League coach asks him for an autograph.
+Taken together, those stories paint a picture of qualities I increasingly associate with NASA and human spaceflight:
+Service. Family. Sacrifice. Perseverance. Humility. Dedication to the mission—and to one another.
+One of my biggest takeaways from Spaceman is that Massimino never presents becoming an astronaut as the inevitable destination of an extraordinary person.
+Instead, he shows how often the path depended on persistence, relationships, mentorship, second chances, hard work, and continuing to move forward when the answer could very easily have been, and sometimes was “no.”
+As I continue studying space and working toward my own transition into the industry, books like this are valuable because they reveal something technical coursework alone cannot fully capture: the human element behind the missions.
+Worth reading for: human spaceflight, NASA culture, leadership, perseverance, the Space Shuttle program, and Hubble.
 
 * ## Red Moon Rising: Sputnik and the Hidden Rivals that Ignited the Space Age
   by Matthew Brezezinski
