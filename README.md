@@ -116,7 +116,33 @@ Worth reading for: human spaceflight, NASA culture, leadership, perseverance, th
 
 * ## The Voyager Program: The History and Legacy of NASA's First Probes that Traveled to the Outer Solar System
   Charles River Editors
-___
+
+* ## Endurance: A Year in Space, A Lifetime of Discovery
+  by Scott Kelly
+  *Finished on 09/10/2026*
+
+I've been reading a lot of personal accounts from astronauts, flight controllers, engineers, and program leaders.
+So far, Scott Kelly's Endurance may be the most raw and unfiltered look I've read at the human being inside the blue flight suit.
+Kelly begins with his year aboard the ISS, describing the routines, stress, camaraderie, and mutual respect among the international crew, including Gennady Padalka and Mikhail Kornienko.
+Then he moves backward through his life: growing up around domestic violence, the sacrifices of his mother, his relationship with his twin brother Mark, becoming an F-14 pilot with the Navy's "Pukin' Dogs," and a marriage he candidly admits he wasn't ready for.
+Then we're back in orbit.
+Resupply rockets explode. Supplies are lost. Food becomes an operational concern. Kelly faces the possibility of rationing and sharing resources with the Russian crew.
+He writes about the shooting of his sister-in-law, Gabby Giffords, and the helplessness of watching his family experience trauma.
+He writes about loneliness, stress, dreams, regret, and relationships.
+One moment especially stayed with me as the father of a young adult: Kelly receives a message that makes him think something may be seriously wrong with his teenage daughter.
+It turns out she was lonely and bored.
+She just wanted to talk to her dad.
+Across hundreds of miles of vacuum, some things about being a parent don't change.
+What I'm taking from it:
+We tend to turn astronauts into symbols—blue flight suits, mission patches, extraordinary accomplishments.
+Endurance reminds us that the people inside those suits are not gods or mythic figures.
+They're human.
+Flawed, complicated, sometimes messy human beings carrying relationships, heartbreak, trauma, regret, courage, brilliance, and determination with them into space.
+And somehow, that makes what they accomplish more impressive, not less.
+Human spaceflight isn't extraordinary because extraordinary beings leave Earth.
+It's extraordinary because human beings do.
+
+____
 
 # 2. Astrophysics, Cosmology & Astrobiology
 *Books exploring the fundamental physics, origins, and mysteries of the universe.*
