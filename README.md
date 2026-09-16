@@ -73,6 +73,7 @@ For someone like me working toward mission operations and ground systems, this w
 * ## Escaping Gravity: My Quest to Transform NASA and Launch a New Space Age
   by Lori Garver
   *Finished on 9/14/2020*
+
 Lori Garver’s "Escaping Gravity: My Quest to Transform NASA and Launch a New Space Age" is a fascinating account of her career, particularly her time as NASA Deputy Administrator.
 The book offers a view inside the political minefield NASA’s leadership must navigate — maintaining relationships with the lawmakers who control the agency’s budget and direction while still trying to lead boldly through enormous uncertainty.
 Garver writes about the Columbia disaster, the events that led to the end of the Shuttle era, and what she saw as a clash of cultures within NASA: the institutional old guard and traditional contractor Primes versus the emerging commercial companies she fondly calls the “Space Pirates.”
