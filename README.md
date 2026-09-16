@@ -72,6 +72,22 @@ For someone like me working toward mission operations and ground systems, this w
 
 * ## Escaping Gravity: My Quest to Transform NASA and Launch a New Space Age
   by Lori Garver
+  *Finished on 9/14/2020*
+Lori Garver’s "Escaping Gravity: My Quest to Transform NASA and Launch a New Space Age" is a fascinating account of her career, particularly her time as NASA Deputy Administrator.
+The book offers a view inside the political minefield NASA’s leadership must navigate — maintaining relationships with the lawmakers who control the agency’s budget and direction while still trying to lead boldly through enormous uncertainty.
+Garver writes about the Columbia disaster, the events that led to the end of the Shuttle era, and what she saw as a clash of cultures within NASA: the institutional old guard and traditional contractor Primes versus the emerging commercial companies she fondly calls the “Space Pirates.”
+Companies such as SpaceX and Blue Origin found opportunity as technology matured and the Shuttle program ended, leaving the United States without its own way to send astronauts into orbit.
+Garver makes no attempt to hide that she was a controversial figure. Her account is sharply critical of what she saw as entrenched privilege within NASA management and preferred relationships with major contractors—a system she believed left too little room for innovation and too much room for cost growth and budgetary excess.
+But the book also gave me a view into a brilliant, intensely pragmatic leader determined above all else to keep America in space. Her concern for astronaut safety runs throughout the book, as do the challenges she faced as a woman navigating institutions that often failed to live up to their stated ideals of diversity and equity.
+Garver played an instrumental role in NASA’s shift toward deeper partnerships with private space companies, particularly when American crews depended on Russian Soyuz spacecraft to reach the ISS.
+What makes the book especially interesting to read now is that it was written before the Artemis era truly began. SLS — the product of more than a decade of work involving NASA and the traditional aerospace Primes — now exists alongside commercial systems developed by some of those former “Space Pirates.”
+The future that emerged wasn't one model defeating another.
+It became a partnership between both.
+The Primes and the Pirates.
+Old Space and New Space.
+Government capability and commercial innovation.
+All converging as NASA moves deeper into the Artemis era and the New Space Economy takes shape.
+That makes Escaping Gravity more than a memoir of battles already fought. It is an account of how many of the arguments still shaping the space industry today began.
 
 * ## Space to Grow: Unlocking the Final Economic Frontier
   by Matthew Weinzierl and Brendan Rosseau
