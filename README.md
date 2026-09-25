@@ -60,6 +60,25 @@ For someone like me working toward mission operations and ground systems, this w
 
 * ## Moon Shot: The Inside Story of America's Race to the Moon
   by Alan Shepard and Deke Slayton
+  *Finished on: 9/21/2026*
+
+Moon Shot: The Inside Story of America’s Apollo Moon Landings, by original Mercury 7 astronauts Alan Shepard and Deke Slayton, is a gripping narrative of the beginnings of America’s human space program and the race to the Moon.
+Beginning with Project Paperclip, Wernher von Braun’s Redstone rocket team in Huntsville, Alabama, and the Soviet space program’s stunning early successes, the book shows how technological competition and Cold War rivalry rapidly transformed spaceflight into a national imperative.
+But at its heart, Moon Shot is also the story of the astronauts themselves.
+Shepard and Slayton recount the challenges faced by the original Mercury 7 — their ambitions, rivalries, personal struggles, and the shared danger and purpose that ultimately bound them together. That bond helped establish a culture that would influence the astronaut corps that followed.
+They learned to put personal ambition aside and support one another, even while the media spotlight and political pressures surrounding the program searched for the most appealing public face of America’s space effort.
+Their own careers make that perseverance especially powerful.
+When medical issues threatened to permanently ground both men, neither walked away. They continued working for the program and supporting their fellow astronauts while fighting for the opportunity to fly again.
+Eventually, both did.
+Alan Shepard walked on the Moon with Apollo 14 in 1971.
+Deke Slayton finally reached space in 1975 aboard Apollo-Soyuz, a mission that became an important symbol of cooperation between two Cold War rivals.
+The book takes us through tragedy and triumph: the devastating loss of the Apollo 1 crew, the Moon landing, and the tense struggle to bring Apollo 13 safely home.
+But the passage that stayed with me most was Shepard reflecting on seeing Earth from space:
+«“I realized up there that our planet is not infinite. It’s fragile. That may not be obvious to a lot of folks, and it’s tough that people are fighting each other here on Earth instead of trying to get together and live on this planet. We look pretty vulnerable in the darkness of space.”»
+That perspective — often associated with what we now call the Overview Effect — may be one of the most important lessons human spaceflight has given us.
+You shouldn’t have to stand on the Moon to recognize it.
+Our planet is small, shared, and fragile.
+That is a perspective worth cultivating whether we ever get to see Earth from space like Alan Shepard did or not.
 
 * ## Apollo 13
   by Jim Lovell
