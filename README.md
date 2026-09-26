@@ -178,6 +178,14 @@ And somehow, that makes what they accomplish more impressive, not less.
 Human spaceflight isn't extraordinary because extraordinary beings leave Earth.
 It's extraordinary because human beings do.
 
+* ## Into the Black: The Extraordinary Untold Story of the First Flight of the Space Shuttle Columbia and the Astronauts Who Flew Her
+  by Rowland White and Richard Truly
+
+* ## X-15 Diary: The Story of America's First Spaceship
+  by Richard Tregaskis
+
+* ## Shuttle, Houston: My Life in the Center Seat of Mission Control
+  by Paule Dye
 ____
 
 # 2. Astrophysics, Cosmology & Astrobiology
@@ -245,6 +253,8 @@ The cosmos belongs to all of us. Our institutions of science should reflect that
 * ## The Biggest Ideas in the Universe: Space, Time, and Motion
   by Sean Carroll
 
+* ## The Big Picture: On the Origins of Life, Meaning, and the Universe Itself
+  by Sean Carroll
 ____
 
 # 3. Artificial Intelligence & The Digital Future
@@ -310,6 +320,10 @@ But we also need serious conversations about what could go right, and what choic
 
 * ## The Path to Singularity: How Technology Will Challenge the Future of Humanity
   by J. Craig Wheeler
+
+* ## Enshittification: Why Everything Suddenly Got Worse and What to Do About It
+  by Cory Doctorow
+
 ____
 
 # 4. Mindset, Performance & Strategy
@@ -372,6 +386,9 @@ Learning to think like a rocket scientist is part of figuring out how to get the
 
 * ## Thinking in Systems: A Primer
   by Donella H. Meadows
+
+* ## Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning
+  by Alex J. Gutman and Jordan Goldmeier
 ___
 
 # 5. Sci-Fi & Space Fiction
