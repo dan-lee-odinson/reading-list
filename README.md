@@ -149,6 +149,22 @@ Worth reading for: human spaceflight, NASA culture, leadership, perseverance, th
 
 * ## Chasing New Horizons: Inside the Epic First Mission to Pluto
   by Alan Stern and David Grinspoon
+  *Finished on 09/30/2026*
+
+One of the things I’ve come to appreciate in reading about the space industry is how often the hardest part of exploration happens long before a spacecraft reaches the launchpad.
+*Chasing New Horizons: Inside the Epic First Mission to Pluto* by Alan Stern and David Grinspoon is, at its core, a study in persistence. It tells the inside story of the decades-long effort that ultimately sent New Horizons more than three billion miles to make humanity’s first close reconnaissance of Pluto.
+What struck me most was that the mission’s success wasn’t simply a triumph of spacecraft engineering. It was also a triumph over institutional inertia, shifting political priorities, budget fights, and the very real possibility that a Pluto mission might never happen at all.
+Efforts to reach Pluto stretched back to 1989, followed by multiple mission concepts through the 1990s. In 2001, NASA opened a competitive process for a Pluto–Kuiper Belt mission. The field eventually narrowed to two finalists: the APL/SwRI-led New Horizons team and the JPL-backed POSSE proposal.
+NASA selected New Horizons on November 29, 2001.
+That competition is an important part of the story. Johns Hopkins Applied Physics Laboratory was already an experienced spacecraft organization, but winning New Horizons represented a significant challenge to JPL’s longstanding leadership in U.S. deep-space planetary exploration.
+Even winning the competition didn’t guarantee the mission would fly.
+The program faced repeated funding and cancellation threats as presidential budgets, NASA priorities, Congress, and the scientific community pulled in different directions. That may be the lesson from the book that stayed with me most: technical excellence alone is not enough to make an ambitious mission real.
+New Horizons launched from Cape Canaveral on January 19, 2006. After a nine-and-a-half-year journey, it flew past Pluto on July 14, 2015, completing humanity’s first close exploration of the Pluto system.
+It later flew past Arrokoth on January 1, 2019—the most distant object ever explored up close.
+For me, as someone working toward a career in space systems, program management, and mission operations, *Chasing New Horizons* is almost as valuable as a professional case study as it is a history of exploration.
+The people who accomplish extraordinary things in this industry aren’t simply the people who solve the technical problems. They’re also the people who keep programs alive, navigate constraints, make difficult tradeoffs, build coalitions, and keep pushing when the easiest organizational answer would be to stop.
+New Horizons reached Pluto in 2015.
+But in many ways, the harder journey was getting the mission to the launchpad in the first place.
 
 * ## The Voyager Program: The History and Legacy of NASA's First Probes that Traveled to the Outer Solar System
   Charles River Editors
