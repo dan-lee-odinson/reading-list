@@ -196,6 +196,16 @@ It's extraordinary because human beings do.
 
 * ## Into the Black: The Extraordinary Untold Story of the First Flight of the Space Shuttle Columbia and the Astronauts Who Flew Her
   by Rowland White and Richard Truly
+  *Finished on 10/12/2026*
+What does it take to fly a spacecraft for the first time when there is no flight history to fall back on?
+Into the Black explores that question through the development of the Space Shuttle and the first flight of Columbia. On April 12, 1981, John Young and Bob Crippen launched aboard a vehicle unlike anything that had flown before—one that would have to operate as both a spacecraft and a glider on its return to Earth.
+What struck me most was how many people and organizations had to work together to make that flight possible. Behind the astronauts were thousands of people - engineers, technicians, mission controllers, manufacturing plant workers, contractors, military personnel, and members of the intelligence community, each contributing to a program that pushed the limits of aerospace technology.
+One of the most fascinating parts of the story is the cooperation between NASA and the National Reconnaissance Office. When missing thermal protection tiles raised concerns during STS-1, classified reconnaissance capabilities were brought to bear to help assess Columbia in orbit.
+The book also makes it difficult to overlook the tension between innovation and risk. Columbia’s thermal protection system was an extraordinary engineering achievement, but it was also fragile and labor-intensive. Concerns about damage and debris were present from the very beginning of the Shuttle program.
+As someone working toward a future in mission operations and program management, I keep coming back to a question this history raises:
+How do we preserve the creativity and determination needed to solve unexpected problems while making sure early warning signs are heard, understood, and acted on?
+The Shuttle’s story is full of remarkable people doing remarkable things under immense pressure. It’s also a reminder that mission success depends on the systems, communication, and culture that support those people.
+For anyone interested in spaceflight history, engineering, or what happens behind the scenes of a mission, Into the Black is well worth a read. 
 
 * ## X-15 Diary: The Story of America's First Spaceship
   by Richard Tregaskis
