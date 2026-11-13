@@ -167,9 +167,6 @@ The people who accomplish extraordinary things in this industry aren’t simply 
 New Horizons reached Pluto in 2015.
 But in many ways, the harder journey was getting the mission to the launchpad in the first place.
 
-* ## The Voyager Program: The History and Legacy of NASA's First Probes that Traveled to the Outer Solar System
-  Charles River Editors
-
 * ## Endurance: A Year in Space, A Lifetime of Discovery
   by Scott Kelly
   *Finished on 09/10/2026*
