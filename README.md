@@ -17,6 +17,7 @@ This is an engaging and practical book about purpose, preparation, humility, and
 
 * ## Back to Earth: What Life in Space Taught Me About Our Home and Our Mission to Protect It 
   by Astronaut Nicole Stott
+  *Finished on 11/03/2026*
 
 * ## Failure is Not an Option 
   by Gene Kranz
@@ -213,6 +214,8 @@ For anyone interested in spaceflight history, engineering, or what happens behin
 
 * ## Shuttle, Houston: My Life in the Center Seat of Mission Control
   by Paule Dye
+  *Finished on 11/13/2026*
+  
 ____
 
 # 2. Astrophysics, Cosmology & Astrobiology
