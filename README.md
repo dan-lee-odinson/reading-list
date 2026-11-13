@@ -444,3 +444,4 @@ I had this series on my "Want to read" list before the first Dune remake came ou
 
 * ## Neuromancer
   by William Gibson
+  *Finished on 11/7/2026*
